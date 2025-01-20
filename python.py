@@ -1,6 +1,6 @@
 print("Hello World")
 
-def text():
-    print("this is text function.")
+def about():
+    print("Hello form Git depository")
 
-text()
+about()
